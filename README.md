@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi, I’m @Viserion-7<br>🌱 I’m currently learning Computer Science Artificial Intelligence at Amrita Vishwa Vidyapeetham , Amritapuri<br>💬 Ask me about<br>⚡  How to reach me @reach.viserion@gmail.com
+🔭 Hi, I’m @Viserion-7<br>🌱 I’m currently learning Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham , Amritapuri<br>💬 Ask me about<br>⚡  How to reach me @reach.viserion@gmail.com
 
 
 ## 🌐 Socials:
