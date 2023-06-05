@@ -6,6 +6,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Viserion-7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viserion-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center"><a href="https://github.com/PranavKrishnan007"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Viserion-7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
