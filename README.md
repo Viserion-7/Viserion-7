@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi I’m Harigovind , member @amfoss<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham , Amritapuri<br>💬 Ask me about anything ...<br>⚡ How to reach me @reach.viserion@gmail.com
+🔭 Hi I’m Harigovind , member @amfoss<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham , Amritapuri<br>💬 Ask me about anything ...<br>⚡ How to reach me @harigovindbiju@gmail.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Viserion-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
