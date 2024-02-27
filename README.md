@@ -2,6 +2,7 @@
 I am a Second Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri. I am a Member and Mentor @[amfoss](https://amfoss.in/).
 
 # 💫 About Me:
+💻 I do research and backend Development.<br>
 🤝 I'm interested in getting started with AI.<br>
 💬 Feel free to ask me about backend development.<br>
 ⚡ How to reach me harigovindbiju@gmail.com
