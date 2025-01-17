@@ -1,5 +1,5 @@
 # Hey👋, I'm Harigovind
-I am a Second Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri. I am a Member and Mentor @[amfoss](https://amfoss.in/).
+I am a Third Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri. I am a Member and Mentor @[amfoss](https://amfoss.in/).
 
 # 💫 About Me:
 💻 I do research and backend Development.<br>
